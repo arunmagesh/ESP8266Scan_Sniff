@@ -6,7 +6,7 @@ This combines https://github.com/arunmagesh/esp8266Xscan and https://github.com/
 Step:
 
 1. Connect ESP8266 board and install its board file from board manager
-2. Install the ArduinoPCAP library and all the supporting libraries in it's GIT( you don't have an option
+2. Install the ArduinoPCAP library and all the supporting libraries in it's GIT( you don't have an option :p)
 3. Install Python3 and Pyserial3 and run it as " sudo python3 StartScan_Sniff.py " and reset the board. 
 
 
